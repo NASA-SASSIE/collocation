@@ -6,8 +6,8 @@ First attempt at collaboration via github
 
 Goals/outline:
 
-1. Download in situ data in the Beaufort - e.g. UpTempO, SWIFT, SIZRS.
-2. Load corresponding SMAP data for the same dates
+1. Download in situ data in the Beaufort - e.g. UpTempO, SWIFT, SIZRS. @kyla
+2. Load corresponding SMAP data for the same dates - loop through the in situ array & find SMAP
 3. Plot maps with SMAP and in situ data
 4. Do some collocation statistics (scatterplots) of SSS
 5. Add sea ice to maps
