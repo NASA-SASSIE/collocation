@@ -1,0 +1,7 @@
+% SIZRS 2012 Mission#3          July AXCTDs
+%                                 
+% drop   serialno    latitude   longitude       date           time
+  3      12046969    73  56.1   150  05.2       2012   7  25   0056
+  4      12046968    72  59.3   149  59.4       2012   7  25   0120
+  5      12046970    71  59.3   150  00.5       2012   7  25   0146
+ 
